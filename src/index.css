@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+Add the code below in settings.json to remove squigly lines
+
+"files.associations": {
+    "*.css": "tailwindcss"
+  }
+*/
